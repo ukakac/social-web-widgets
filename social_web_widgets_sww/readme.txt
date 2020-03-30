@@ -36,6 +36,11 @@ More enticing product images. More sales.
 You can register at :
 https://www.socialwebwidgets.com/admin/register/
 
+== Screenshots ==
+
+1. Social Web Widget Instagram Feed displaying.
+2. Social Web Widget settings page.
+
 == How to Use ==
 
 * To use on Php page;
