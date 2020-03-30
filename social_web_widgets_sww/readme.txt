@@ -23,7 +23,7 @@ We are working to make your Instagram account appear on your website as well. Yo
 
 == Installation ==
 
-Upload the Social Web Widgets plugin to your blog, Activate it, SWW Options then enter your [API KEY, WIDGET ID](http://socialwebwidgets.com/).
+Upload the Social Web Widgets plugin to your blog, Activate it, SWW Options then enter your [API KEY, WIDGET ID](https://socialwebwidgets.com/).
 
 == Frequently Asked Questions ==
 
