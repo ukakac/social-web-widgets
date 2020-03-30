@@ -41,6 +41,11 @@ https://www.socialwebwidgets.com/admin/register/
 1. Social Web Widget Instagram Feed displaying.
 2. Social Web Widget settings page.
 
+== Changelog ==
+
+= V1.0 - 13.01.2020 =
+* NEW : You can use it as a shortcode.
+
 == How to Use ==
 
 * To use on Php page;
