@@ -20,7 +20,6 @@ We are working to make your Instagram account appear on your website as well. Yo
 * Attract more Instagram followers : Use website traffic as one more source of new Instagram audience and increase the number of followers.
 * Improve your social media performance : The fastest way to take images from Instagram to your site.
 
-
 == Installation ==
 
 Upload the Social Web Widgets plugin to your blog, Activate it, SWW Options then enter your [API KEY, WIDGET ID](https://socialwebwidgets.com/).
